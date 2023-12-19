@@ -1,0 +1,8 @@
+//>//
+//=//
+//<//
+//=<//
+//=>//
+// in javascript the comparison of some datatypes could be difffernet
+//null=0(yes)
+//when we use "===" it do strict checks it will also check the datatypes 
