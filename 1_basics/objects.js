@@ -18,3 +18,20 @@ jsuser.gmail="hitesh@gmail.com"
 const tinderuser= new object()
    tinderuser.id=1234
    tinderuser.name="sammy"
+
+   const  course= {
+     name: "js.hindi",
+     price: 1900,
+   }
+   const{name}=course
+   console.log(name)
+
+
+   // jason//
+   {
+    "name":"python",
+    "price":"999"
+   }
+
+   // sometimes api come i the form of array//
+   
