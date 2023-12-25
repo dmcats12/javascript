@@ -7,4 +7,16 @@ const result=addtwonum(4,3)// this is called arguments
 
 console.log("result:" , result)
 
+function calculatecartprice(...num1){
+   return num1
+}
+console.log(calculatecartprice(200,400,500)) // to add numbers or values in continuty we use rest and spread 
+const user={
+   name:"hitesh",
+   price:199
+}
+function handleobject(anyobject){
+   console.log(`username is ${anyobject.name} and price is ${anyobject.price}`);
+}
 
+handleobject(user)
