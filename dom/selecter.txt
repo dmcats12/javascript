@@ -1,0 +1,11 @@
+document.queryselector()
+document.innertext
+document.innerhtml
+document.getElementById()
+document.queryselectorAll
+document.style
+
+you can put these in a var or const and use there name directly like tittle.style
+
+whemn we do queryselecter all it gives nodelist which similar to array but did not have all the property 
+of aaray
